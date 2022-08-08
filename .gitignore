@@ -32,3 +32,9 @@
 *.app
 *.opendb
 *.log
+
+#mlsmoon add
+.idea/
+.vs/
+Debug/
+*.user
